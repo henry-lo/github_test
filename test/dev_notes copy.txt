@@ -1,12 +1,4 @@
-GitHub account: henry-lo
-GitLab account: henry.lo
-Source Tree account: use Google account - henry.lo@gmail.com
-
-http://stackoverflow.com/questions/27570370/how-to-integrate-sourcetree-for-gitlab
-
-
-
-Install METEOR
+Install METEOR2
 ===============
 Henrys-iMac:~ henrylo$ curl https://install.meteor.com/ | sh
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
@@ -29,8 +21,8 @@ Or see the docs at:
   docs.meteor.com
 
 
-enable GIT
-==========
+enable GIT2
+===========
 login as root
 /> sudo -s
 /> git
